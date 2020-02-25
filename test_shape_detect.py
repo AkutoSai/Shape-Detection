@@ -1,7 +1,9 @@
-print("Author: AKUTO SAI")
-
 import cv2
 import numpy as np
+
+#================================
+print("Author: AKUTO SAI")
+#================================
 
 def nothing(x):
     # any operation
